@@ -1,7 +1,6 @@
 """
     File: bball.py
     Author: Samak Gurung
-    Course: CSC 120, Fall 2024
     Purpose: This code iterates through the file and
     creates classes Team, Confrence and ConfrenceSet
     that stores the the team object in Confrences
